@@ -1,0 +1,1 @@
+This is an example of a corpus. It is a bunch of text without any newlines. The driver should covert any text from a dataset into this format.
